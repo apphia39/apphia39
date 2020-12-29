@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-20.07.06-20.09.30 project1 - 모임 website (HTML, JSP / JAVA / MYSQL / TOMCAT / ECLIPSE)
+🔭 21.01.04-21.01.22 project1 - 세실리아 요양센터 website
 
 <!--
 **apphia39/apphia39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
