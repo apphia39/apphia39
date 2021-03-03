@@ -1,6 +1,20 @@
 ### Hi there 👋
 
+#### I made...
 🔭 20.07.06-21.02.14 project1 - 어쩌다리그 website
+🔭 21.03.04-21.06.22 project2 - cecilia website
+
+
+#### I learned about...
+🌱 Operating System
+🌱 C / JAVA / JSP / 
+🌱 Data Communication & Network
+🌱 Software Engineering
+🌱 Database System
+🌱 Computer Architecture
+🌱 System Programming
+
+
 
 <!--
 **apphia39/apphia39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
