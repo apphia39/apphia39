@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 20.07.06-21.02.20 project1 - 어쩌다리그 website
+🔭 20.07.06-21.02.14 project1 - 어쩌다리그 website
 
 <!--
 **apphia39/apphia39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
