@@ -1,18 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 
-#### I made...
-🔭 20.07.06-21.02.14 project1 - 어쩌다리그 website
+### I made...
+🔭 20.07.06-21.02.14 project1 - 어쩌다리그 website <Br>
 🔭 21.03.04-21.06.22 project2 - cecilia website
 
 
-#### I learned about...
-🌱 Operating System
-🌱 C / JAVA / JSP / 
-🌱 Data Communication & Network
-🌱 Software Engineering
-🌱 Database System
-🌱 Computer Architecture
-🌱 System Programming
+### I learned about...
+🌱 Operating System <Br>
+🌱 C / JAVA / JSP / <Br>
+🌱 Data Communication & Network <Br>
+🌱 Software Engineering <Br>
+🌱 Database System <Br>
+🌱 Computer Architecture <Br>
+🌱 System Programming <Br>
 
 
 
