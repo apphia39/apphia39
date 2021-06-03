@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ### I made...
-🔭 20.07.06-21.02.14 project1 - 어쩌다리그 website <Br>
+<!--🔭 20.07.06-21.02.14 project1 - 어쩌다리그 website <Br>
 🔭 21.06.22-21.08.31 project2 - cecilia website
-
+-->
 
 ### I learned about...
 🌱 Language : Java / C / <Br>
