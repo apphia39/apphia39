@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 ### I made...
-<!--🔭 20.00.00 - 20.00.00 pintos project [C / Linux]<Br>-->
+🔭 20.09.00 - 20.12.00 pintos project [C / Linux]<Br>
+🔭 20.11.00 - 20.12.00 Library Manager [JAVA]<Br>
 🔭 21.03.09 - 21.05.04 SIC/XE machine <Br>
 🔭 21.05.00 - 21.05.31 MyShell [C / Linux] <Br>
 🔭 21.05.25 - 21.06.07 Text mining [Python / MongoDB] <Br>
