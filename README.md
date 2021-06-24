@@ -9,7 +9,7 @@
 🔭 21.06.03 - 21.06.23 Concurrent Stock Server [C / Linux] <Br>
 
 ### I learned about...
-🌱 Language : Java / C / C++ <Br>
+🌱 Language : Java / C <Br>
 🌱 Operating System <Br>
 🌱 Data Communication & Network <Br>
 🌱 Software Engineering <Br>
