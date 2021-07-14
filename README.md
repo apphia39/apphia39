@@ -6,20 +6,18 @@
 🔭 21.03.09 - 21.05.04 SIC/XE machine <Br>
 🔭 21.05.00 - 21.05.31 MyShell [C / Linux] <Br>
 🔭 21.05.25 - 21.06.07 Text mining [Python / MongoDB] <Br>
-🔭 21.06.03 - 21.06.23 Concurrent Stock Server [C / Linux] <Br>
+🔭 21.06.03 - 21.06.23 Concurrent Stock Server [C / Linux] <Br>  
+🔭 21.07.16 - 21.08.31 cecilia web project <Br>
 
 ### I learned about...
-🌱 Language : Java / C <Br>
+🌱 Language : Java / Python / C <Br>
 🌱 Operating System <Br>
-🌱 Data Communication & Network <Br>
+🌱 Network <Br>
 🌱 Software Engineering <Br>
 🌱 Database System <Br>
 🌱 System Programming <Br>
-🌱 Data Structure <Br>
-🌱 Algorithm <Br>
-🌱 Assembly Language <Br>
-🌱 Computer Architecture<Br>
-
+🌱 Data Structure & Algorithm <Br>
+  
   
 <!--
 **apphia39/apphia39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
